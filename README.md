@@ -1,1 +1,1 @@
-# simple-bot
+# crypto-simple-bot
