@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Usage
-1. Download latest binary from [here](https://github.com/iamrekas/crypto-simple-bot/releases "here")
+1. Download latest binary from [here](https://github.com/iamrekas/crypto-simple-bot/releases/latest "here")
 2. Request new license key in our telegram group *(not avaible yet)*
 3. Register the bot `crypto-simple-bot-cli_{OS}_{ARCH} register`
 4. Enjoy bot
