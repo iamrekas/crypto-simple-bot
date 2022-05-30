@@ -11,13 +11,13 @@
 4. Enjoy bot
 
 #### CLI Help
-Linux: `crypto-simple-bot-cli_linux_amd64 --help`
-Windows: `crypto-simple-bot-cli_windows_amd64.exe --help`
-MacOS: `crypto-simple-bot-cli_darwin_amd64 --help`
+* Linux: `crypto-simple-bot-cli_linux_amd64 --help`
+* Windows: `crypto-simple-bot-cli_windows_amd64.exe --help`
+* MacOS: `crypto-simple-bot-cli_darwin_amd64 --help`
 
 #### ENV example:
 ```
 PRIVATE_KEY=
-NODE_RPC=
 NODE_WS=
+BOT_CONTRACT=
 ```
